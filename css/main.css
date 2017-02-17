@@ -95,9 +95,8 @@ h2 {
 	text-align: center;
 }
 
-.fader {
+img {
 	width: 80%;
-	height:20%;
 	border-radius: 5px;
 
 	-webkit-box-shadow: 20px 0px 43px -23px rgba(0,0,0,0.75);
