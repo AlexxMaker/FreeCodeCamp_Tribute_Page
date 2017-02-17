@@ -69,6 +69,7 @@ body {
 	background-color: #EEEEEE;
 	border-radius: 10px;
 	margin-top: 50px;
+	margin-bottom: 60px;
 
 	-webkit-box-shadow: 5px 18px 44px -9px rgba(0,0,0,0.75);
 	-moz-box-shadow: 5px 18px 44px -9px rgba(0,0,0,0.75);
@@ -120,5 +121,22 @@ blockquote {
 	padding-bottom: 5px;
 }
 
+.list-wrapper ul {
+	border-bottom: 1px solid silver;
+	padding-bottom: 20px;
+}
+
+.wiki {
+	text-align: center;
+	padding-bottom: 60px;
+}
+
+.wiki h3 {
+	font-size: 20px;
+}
+
+.footer {
+	text-align: center;
+}
 
 

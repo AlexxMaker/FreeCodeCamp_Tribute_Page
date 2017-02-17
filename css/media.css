@@ -7,7 +7,13 @@
 
 /* Medium Devices, Desktops */
 @media only screen and (max-width : 992px) {
+		.wiki {
+		width: 90%;
+	}
 
+	.wiki h3 {
+		font-size: 14px;
+	}
 }
 
 /* Small Devices, Tablets */
@@ -53,6 +59,12 @@
 
 	blockquote {
 		width: 90%;
+	}
+
+
+
+	.footer p {
+		font-size: 12px;
 	}
 }
 
